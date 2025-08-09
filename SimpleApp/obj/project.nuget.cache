@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ewxxXgsqP9aeqXRyDIGpG2LIlE/gHCWY7TcxBcn6iebzMEH2ayIIyI8FZOZXv9uwndb4d5+HsxXQJh2LHesW9g==",
+  "success": true,
+  "projectFilePath": "D:\\JENKINSTECH\\UnitTesting\\ENDCHAPTER\\Testing\\SimpleApp\\SimpleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Billy\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Billy\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Billy\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Billy\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

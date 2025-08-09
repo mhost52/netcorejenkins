@@ -1,0 +1,8 @@
+D:\JENKINSTECH\UnitTesting\ENDCHAPTER\Testing\SimpleApp\obj\Release\net6.0\PubTmp\Out\SimpleApp.exe
+D:\JENKINSTECH\UnitTesting\ENDCHAPTER\Testing\SimpleApp\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\JENKINSTECH\UnitTesting\ENDCHAPTER\Testing\SimpleApp\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\JENKINSTECH\UnitTesting\ENDCHAPTER\Testing\SimpleApp\obj\Release\net6.0\PubTmp\Out\global.json
+D:\JENKINSTECH\UnitTesting\ENDCHAPTER\Testing\SimpleApp\obj\Release\net6.0\PubTmp\Out\SimpleApp.dll
+D:\JENKINSTECH\UnitTesting\ENDCHAPTER\Testing\SimpleApp\obj\Release\net6.0\PubTmp\Out\SimpleApp.deps.json
+D:\JENKINSTECH\UnitTesting\ENDCHAPTER\Testing\SimpleApp\obj\Release\net6.0\PubTmp\Out\SimpleApp.runtimeconfig.json
+D:\JENKINSTECH\UnitTesting\ENDCHAPTER\Testing\SimpleApp\obj\Release\net6.0\PubTmp\Out\SimpleApp.pdb
