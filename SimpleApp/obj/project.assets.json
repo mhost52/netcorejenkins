@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\JENKINSTECH\\UnitTesting\\ENDCHAPTER\\Testing\\SimpleApp\\SimpleApp.csproj",
+      "projectUniqueName": "D:\\JENKINSTECH\\Testing\\SimpleApp\\SimpleApp.csproj",
       "projectName": "SimpleApp",
-      "projectPath": "D:\\JENKINSTECH\\UnitTesting\\ENDCHAPTER\\Testing\\SimpleApp\\SimpleApp.csproj",
+      "projectPath": "D:\\JENKINSTECH\\Testing\\SimpleApp\\SimpleApp.csproj",
       "packagesPath": "C:\\Users\\Billy\\.nuget\\packages\\",
-      "outputPath": "D:\\JENKINSTECH\\UnitTesting\\ENDCHAPTER\\Testing\\SimpleApp\\obj\\",
+      "outputPath": "D:\\JENKINSTECH\\Testing\\SimpleApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -26,3 +26,32 @@ D:\ASP CORE 6\pro-asp.net-core-6-main newest but some empty\pro-asp.net-core-6-m
 D:\ASP CORE 6\pro-asp.net-core-6-main newest but some empty\pro-asp.net-core-6-main\06 - Unit Testing\End of Chapter\Testing\SimpleApp\obj\Debug\net6.0\SimpleApp.pdb
 D:\ASP CORE 6\pro-asp.net-core-6-main newest but some empty\pro-asp.net-core-6-main\06 - Unit Testing\End of Chapter\Testing\SimpleApp\obj\Debug\net6.0\SimpleApp.genruntimeconfig.cache
 D:\ASP CORE 6\pro-asp.net-core-6-main newest but some empty\pro-asp.net-core-6-main\06 - Unit Testing\End of Chapter\Testing\SimpleApp\obj\Debug\net6.0\ref\SimpleApp.dll
+D:\JENKINSTECH\Testing\SimpleApp\bin\Debug\net6.0\appsettings.Development.json
+D:\JENKINSTECH\Testing\SimpleApp\bin\Debug\net6.0\appsettings.json
+D:\JENKINSTECH\Testing\SimpleApp\bin\Debug\net6.0\global.json
+D:\JENKINSTECH\Testing\SimpleApp\bin\Debug\net6.0\SimpleApp.exe
+D:\JENKINSTECH\Testing\SimpleApp\bin\Debug\net6.0\SimpleApp.deps.json
+D:\JENKINSTECH\Testing\SimpleApp\bin\Debug\net6.0\SimpleApp.runtimeconfig.json
+D:\JENKINSTECH\Testing\SimpleApp\bin\Debug\net6.0\SimpleApp.dll
+D:\JENKINSTECH\Testing\SimpleApp\bin\Debug\net6.0\SimpleApp.pdb
+D:\JENKINSTECH\Testing\SimpleApp\obj\Debug\net6.0\SimpleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\JENKINSTECH\Testing\SimpleApp\obj\Debug\net6.0\SimpleApp.AssemblyInfoInputs.cache
+D:\JENKINSTECH\Testing\SimpleApp\obj\Debug\net6.0\SimpleApp.AssemblyInfo.cs
+D:\JENKINSTECH\Testing\SimpleApp\obj\Debug\net6.0\SimpleApp.csproj.CoreCompileInputs.cache
+D:\JENKINSTECH\Testing\SimpleApp\obj\Debug\net6.0\SimpleApp.MvcApplicationPartsAssemblyInfo.cache
+D:\JENKINSTECH\Testing\SimpleApp\obj\Debug\net6.0\SimpleApp.RazorAssemblyInfo.cache
+D:\JENKINSTECH\Testing\SimpleApp\obj\Debug\net6.0\SimpleApp.RazorAssemblyInfo.cs
+D:\JENKINSTECH\Testing\SimpleApp\obj\Debug\net6.0\SimpleApp.sourcelink.json
+D:\JENKINSTECH\Testing\SimpleApp\obj\Debug\net6.0\staticwebassets.build.json
+D:\JENKINSTECH\Testing\SimpleApp\obj\Debug\net6.0\staticwebassets.development.json
+D:\JENKINSTECH\Testing\SimpleApp\obj\Debug\net6.0\staticwebassets\msbuild.SimpleApp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\JENKINSTECH\Testing\SimpleApp\obj\Debug\net6.0\staticwebassets\msbuild.build.SimpleApp.props
+D:\JENKINSTECH\Testing\SimpleApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SimpleApp.props
+D:\JENKINSTECH\Testing\SimpleApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SimpleApp.props
+D:\JENKINSTECH\Testing\SimpleApp\obj\Debug\net6.0\staticwebassets.pack.json
+D:\JENKINSTECH\Testing\SimpleApp\obj\Debug\net6.0\scopedcss\bundle\SimpleApp.styles.css
+D:\JENKINSTECH\Testing\SimpleApp\obj\Debug\net6.0\SimpleApp.dll
+D:\JENKINSTECH\Testing\SimpleApp\obj\Debug\net6.0\refint\SimpleApp.dll
+D:\JENKINSTECH\Testing\SimpleApp\obj\Debug\net6.0\SimpleApp.pdb
+D:\JENKINSTECH\Testing\SimpleApp\obj\Debug\net6.0\SimpleApp.genruntimeconfig.cache
+D:\JENKINSTECH\Testing\SimpleApp\obj\Debug\net6.0\ref\SimpleApp.dll

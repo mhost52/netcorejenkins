@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\JENKINSTECH\\UnitTesting\\ENDCHAPTER\\Testing\\SimpleApp.Tests\\SimpleApp.Tests.csproj": {}
+    "D:\\JENKINSTECH\\Testing\\SimpleApp.Tests\\SimpleApp.Tests.csproj": {}
   },
   "projects": {
-    "D:\\JENKINSTECH\\UnitTesting\\ENDCHAPTER\\Testing\\SimpleApp.Tests\\SimpleApp.Tests.csproj": {
+    "D:\\JENKINSTECH\\Testing\\SimpleApp.Tests\\SimpleApp.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\JENKINSTECH\\UnitTesting\\ENDCHAPTER\\Testing\\SimpleApp.Tests\\SimpleApp.Tests.csproj",
+        "projectUniqueName": "D:\\JENKINSTECH\\Testing\\SimpleApp.Tests\\SimpleApp.Tests.csproj",
         "projectName": "SimpleApp.Tests",
-        "projectPath": "D:\\JENKINSTECH\\UnitTesting\\ENDCHAPTER\\Testing\\SimpleApp.Tests\\SimpleApp.Tests.csproj",
+        "projectPath": "D:\\JENKINSTECH\\Testing\\SimpleApp.Tests\\SimpleApp.Tests.csproj",
         "packagesPath": "C:\\Users\\Billy\\.nuget\\packages\\",
-        "outputPath": "D:\\JENKINSTECH\\UnitTesting\\ENDCHAPTER\\Testing\\SimpleApp.Tests\\obj\\",
+        "outputPath": "D:\\JENKINSTECH\\Testing\\SimpleApp.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -32,8 +32,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\JENKINSTECH\\UnitTesting\\ENDCHAPTER\\Testing\\SimpleApp\\SimpleApp.csproj": {
-                "projectPath": "D:\\JENKINSTECH\\UnitTesting\\ENDCHAPTER\\Testing\\SimpleApp\\SimpleApp.csproj"
+              "D:\\JENKINSTECH\\Testing\\SimpleApp\\SimpleApp.csproj": {
+                "projectPath": "D:\\JENKINSTECH\\Testing\\SimpleApp\\SimpleApp.csproj"
               }
             }
           }
@@ -107,14 +107,14 @@
         }
       }
     },
-    "D:\\JENKINSTECH\\UnitTesting\\ENDCHAPTER\\Testing\\SimpleApp\\SimpleApp.csproj": {
+    "D:\\JENKINSTECH\\Testing\\SimpleApp\\SimpleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\JENKINSTECH\\UnitTesting\\ENDCHAPTER\\Testing\\SimpleApp\\SimpleApp.csproj",
+        "projectUniqueName": "D:\\JENKINSTECH\\Testing\\SimpleApp\\SimpleApp.csproj",
         "projectName": "SimpleApp",
-        "projectPath": "D:\\JENKINSTECH\\UnitTesting\\ENDCHAPTER\\Testing\\SimpleApp\\SimpleApp.csproj",
+        "projectPath": "D:\\JENKINSTECH\\Testing\\SimpleApp\\SimpleApp.csproj",
         "packagesPath": "C:\\Users\\Billy\\.nuget\\packages\\",
-        "outputPath": "D:\\JENKINSTECH\\UnitTesting\\ENDCHAPTER\\Testing\\SimpleApp\\obj\\",
+        "outputPath": "D:\\JENKINSTECH\\Testing\\SimpleApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
